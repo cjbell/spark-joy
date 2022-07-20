@@ -1714,7 +1714,8 @@ Tools:
 - little HTML tricks that are handy https://htmldom.dev/
 - https://1stwebdesigner.com/css-effects/
 - great svg ideas https://twitter.com/cassiecodes/status/1383432725059674112?s=20
-
+- [How to design great keyboard shortcuts](https://knock.app/blog/how-to-design-great-keyboard-shortcuts)
+  
 ## Pure CSS Tricks
 
 - MAKE SURE TO CHECK OUT https://components.ai
